@@ -1,0 +1,6 @@
+jenkinsci.plugins.telegrambot
+jenkinsci.plugins.telegrambot.dsl
+jenkinsci.plugins.telegrambot.telegram
+jenkinsci.plugins.telegrambot.telegram.commands
+jenkinsci.plugins.telegrambot.users
+jenkinsci.plugins.telegrambot.utils
